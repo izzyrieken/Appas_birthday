@@ -14,9 +14,12 @@ body{
 
 p{
   font-family: sofia-pro, sans-serif;
-  font-size: 12pt;
+  font-size: 30pt;
 }
 
+.title{
+  font-size: 50pt;
+}
 .navbar{
   margin-top: 22px;
   /* display: inline-block; */
