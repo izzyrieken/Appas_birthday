@@ -1,0 +1,51 @@
+* {
+  margin:0;
+  padding:0;
+}
+
+h1{
+
+}
+
+
+body{
+  background-color: #78648e;
+}
+
+p{
+  font-family: sofia-pro, sans-serif;
+  font-size: 12pt;
+}
+
+.navbar{
+  margin-top: 22px;
+  /* display: inline-block; */
+}
+
+.nav{
+  margin: auto;
+  width: 100%;
+  display: inline-block;
+  text-align: right;
+}
+
+li {
+  display: inline;
+}
+
+.navitem{
+  color: #191919;
+  text-align: center;
+  font-family: sofia-pro, sans-serif;
+  font-weight: 300;
+  font-size: 12pt;
+  letter-spacing: 0.2em;
+  list-style-type: none;
+  margin: auto 90px;
+  text-decoration: none;
+}
+
+.navitem:hover{
+  color: #E54225;
+  font-style: italic;
+}
