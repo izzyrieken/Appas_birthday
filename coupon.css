@@ -27,9 +27,9 @@ p{
 }
 
 .card{
-  margin-left: 400pt;
-  margin-right: 400pt;
-  font-size: 25pt;
+  margin-left: 350pt;
+  margin-right: 350pt;
+  font-size: 17pt;
   color: #fff1db;
   font-family: quicksand,sans-serif;
   font-weight: 700;
@@ -59,10 +59,6 @@ p{
 
 li {
   display: inline;
-}
-
-iframe {
-  padding: 50pt;
 }
 
 .navitem{
